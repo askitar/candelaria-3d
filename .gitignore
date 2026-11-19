@@ -1,0 +1,15 @@
+*.blend
+*.blend1
+render/
+osm/
+__pycache__/
+.env*
+*.pem
+*.key
+!.env.example
+node_modules/
+.DS_Store
+Thumbs.db
+.cache/
+out/
+exports/
